@@ -18,3 +18,14 @@ All examples are educational, lab-based, and focused on detection and prevention
 - Indicators of SQL injection attempts
 - Log-based detection techniques
 - Simple analysis scripts
+
+## Repository Structure
+
+- theory/  
+  High-level explanations of SQL injection concepts.
+
+- detection/  
+  Indicators and analysis techniques for identifying SQL injection attempts.
+
+- scripts/  
+  Simple Python scripts for log-based detection and analysis.
